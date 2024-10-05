@@ -1,0 +1,15 @@
+D:\c# projects\eraa soft\Task_27-9__account\Task_27-9__account\obj\Debug\net7.0\Task_27-9__account.csproj.AssemblyReference.cache
+D:\c# projects\eraa soft\Task_27-9__account\Task_27-9__account\obj\Debug\net7.0\Task_27-9__account.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# projects\eraa soft\Task_27-9__account\Task_27-9__account\obj\Debug\net7.0\Task_27-9__account.AssemblyInfoInputs.cache
+D:\c# projects\eraa soft\Task_27-9__account\Task_27-9__account\obj\Debug\net7.0\Task_27-9__account.AssemblyInfo.cs
+D:\c# projects\eraa soft\Task_27-9__account\Task_27-9__account\obj\Debug\net7.0\Task_27-9__account.csproj.CoreCompileInputs.cache
+D:\c# projects\eraa soft\Task_27-9__account\Task_27-9__account\bin\Debug\net7.0\Task_27-9__account.exe
+D:\c# projects\eraa soft\Task_27-9__account\Task_27-9__account\bin\Debug\net7.0\Task_27-9__account.deps.json
+D:\c# projects\eraa soft\Task_27-9__account\Task_27-9__account\bin\Debug\net7.0\Task_27-9__account.runtimeconfig.json
+D:\c# projects\eraa soft\Task_27-9__account\Task_27-9__account\bin\Debug\net7.0\Task_27-9__account.dll
+D:\c# projects\eraa soft\Task_27-9__account\Task_27-9__account\bin\Debug\net7.0\Task_27-9__account.pdb
+D:\c# projects\eraa soft\Task_27-9__account\Task_27-9__account\obj\Debug\net7.0\Task_27-9__account.dll
+D:\c# projects\eraa soft\Task_27-9__account\Task_27-9__account\obj\Debug\net7.0\refint\Task_27-9__account.dll
+D:\c# projects\eraa soft\Task_27-9__account\Task_27-9__account\obj\Debug\net7.0\Task_27-9__account.pdb
+D:\c# projects\eraa soft\Task_27-9__account\Task_27-9__account\obj\Debug\net7.0\Task_27-9__account.genruntimeconfig.cache
+D:\c# projects\eraa soft\Task_27-9__account\Task_27-9__account\obj\Debug\net7.0\ref\Task_27-9__account.dll
